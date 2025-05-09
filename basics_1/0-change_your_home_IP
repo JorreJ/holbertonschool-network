@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Config an unbuntu server with localhost -> 127.0.0.2 and facebook.com -> 8.8.8.8
 
 HOSTS_FILE="/etc/hosts"
